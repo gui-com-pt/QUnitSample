@@ -1,0 +1,5 @@
+C:\DotNetAssets\QUnit\QUnitTestSample\QUnitTestSample\bin\QUnitTestSample.dll
+C:\DotNetAssets\QUnit\QUnitTestSample\QUnitTestSample\bin\QUnitTestSample.pdb
+C:\DotNetAssets\QUnit\QUnitTestSample\QUnitTestSample\obj\Debug\ResolveAssemblyReference.cache
+C:\DotNetAssets\QUnit\QUnitTestSample\QUnitTestSample\obj\Debug\QUnitTestSample.dll
+C:\DotNetAssets\QUnit\QUnitTestSample\QUnitTestSample\obj\Debug\QUnitTestSample.pdb

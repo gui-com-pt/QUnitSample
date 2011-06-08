@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<script type="text/javascript">
+    $(document).ready(function () {
+        module("Validação");
+        test("Validar Código de Aluno", function () {
+            var teste = Deve_Validar_Codigo("aaaaa");
+            ok(teste.Codigo, teste.Mensagem);
+        });
+    }); 
+</script>
